@@ -1,0 +1,56 @@
+{
+	"info": {
+		"_postman_id": "6d4d5e24-7330-4084-a3fb-0955a6ba878f",
+		"name": "spring-ai",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "2094618"
+	},
+	"item": [
+		{
+			"name": "About Each Customer Profiling Strategy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/customer/strategy?strategy=Psychographic",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"customer",
+						"strategy"
+					],
+					"query": [
+						{
+							"key": "strategy",
+							"value": "Psychographic"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Tell About Customer Profiling",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/customer/about",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"customer",
+						"about"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
