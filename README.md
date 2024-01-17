@@ -5,6 +5,10 @@ The aim for me was to learn how Spring AI works on a Springboot application. I c
 of Customer Profiling and another for drilling down on the 3 different customer profiling strategies. I will leave it to you have some fun 
 and check how I did it. Thanks to @Baeldung for the wonderful example, it really does give a nice kickstart into Spring AI. 
 
+You will need to provide your own Open AI API Key. Once you have it, just add it to the application.yml. Use the last link to create your 
+API Key and then add it as advised. [Add it without the ""]
+ 
+
 Please feel free to access my own code example, the third link just so you can see how I structured my understanding. I am sure you will find a few issue here and there
 , that's no problem. I am just also learning like everyone else. See my attempt in  https://github.com/Kobedi/ai-example.git
 
@@ -13,4 +17,6 @@ Please feel free to access my own code example, the third link just so you can s
  https://github.com/eugenp/tutorials/tree/master/spring-ai
  https://www.baeldung.com/spring-ai
  https://github.com/Kobedi/ai-example.git
+ https://platform.openai.com/docs/overview
+
  
