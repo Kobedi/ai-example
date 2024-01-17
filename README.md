@@ -19,4 +19,5 @@ Please feel free to access my own code example, the third link just so you can s
  https://github.com/Kobedi/ai-example.git
  https://platform.openai.com/docs/overview
 
+
  
