@@ -9,7 +9,7 @@ You will need to provide your own Open AI API Key. Once you have it, just add it
 API Key and then add it as advised. [Add it without the ""]
  
 
-Please feel free to access my own code example, the third link just so you can see how I structured my understanding. I am sure you will find a few issue here and there
+Please feel free to access my own code example, under my github handle below. I am sure you will find a few issues here and there
 , that's no problem. I am just also learning like everyone else. See my attempt in  https://github.com/Kobedi/ai-example.git
 
  
